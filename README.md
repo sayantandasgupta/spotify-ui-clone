@@ -1,16 +1,11 @@
-# spotify_clone
+### Spotify UI Clone
 
-A new Flutter project.
+This UI clone has been made by to learn about how to build realistic and responsive UI using Flutter.
 
-## Getting Started
+I created this UI by following the tutorial of [Marcus NG](https://www.youtube.com/watch?v=HJ1AlSrgZVQ).
 
-This project is a starting point for a Flutter application.
+The UI that has been created is shown below.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Screen | Image |
+| ------ | ----- |
+| Playlist Screen | <img src='readme_assets/spotify_ui_clone.png'/> |
